@@ -1,10 +1,11 @@
 import './App.css';
-import { Brand, Navbar, SideNav, Team, Footer, WeatherBar } from './components';
+import { Brand, Navigation, Team, Footer, WeatherBar } from './components';
+import 'bootstrap/dist/css/bootstrap.min.css'; 
 
 const App = () => (
   <div className="App">
     <Brand />
-    <Navbar />
+    <Navigation />
     <WeatherBar />
     <Team />
     <Footer />
