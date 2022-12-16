@@ -10,15 +10,16 @@ function Navigation() {
 
     <Navbar className="navbar-container" variant="dark" bg="dark" expand="lg">
       <Container fluid>
-        <Nav>
+        <Nav >
 
-          <Navbar.Toggle aria-controls="navbar-dark-example" />
+          <Navbar.Toggle   aria-controls="navbar-dark-example" />
           <Navbar.Collapse id="navbar-dark-example">
 
             <NavDropdown
               id="nav-dropdown-dark-example"
               title="="
               menuVariant="dark"
+             className="party"
             >
               <NavDropdown.Item href="#action/3.1">Home</NavDropdown.Item>
 
