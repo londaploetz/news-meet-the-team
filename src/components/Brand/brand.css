@@ -1,0 +1,59 @@
+.headder {
+    background-image: url(/src/Assets/headder.webp);
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+.news-logo {
+    display: inline-block;
+    height: 10%;
+    width: 10%;
+    padding-top: 1ch;
+    padding-bottom: 1ch;
+    margin-right: 170ch;
+
+}
+
+.weather-logo {
+    display: absolute;
+    width: 62px;
+    height: 55px;
+    left: 1579px;
+    top: 19px;
+}
+
+.degrees {
+    position: absolute;
+    width: 301px;
+    height: 72px;
+    left: 1519px;
+    top: 30px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 19px;
+
+    color: #D6D6D6;
+
+}
+
+.location {
+    position: absolute;
+    width: 301px;
+    height: 72px;
+    left: 1519px;
+    top: 55px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #D6D6D6;
+}

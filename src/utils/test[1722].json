@@ -1,0 +1,68 @@
+{
+    "results": [
+        {
+            "name": {
+                "first": "Jennie",
+                "last": "Nichols"
+            },
+            "location": {
+                "city": "Billings",
+                "state": "Michigan"
+            },
+            "email": "jennie.nichols@example.com",
+            "image": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            }
+        },
+        {
+            "name": {
+                "first": "Sean",
+                "last": "Bryant"
+            },
+            "location": {
+                "city": "Port St. Lucie",
+                "state": "Virginia"
+            },
+            "email": "Sean.bryant@example.com",
+            "image": {
+                "large": "https://randomuser.me/api/portraits/men/86.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+            }
+        },
+        {
+            "name": {
+                "first": "Charles",
+                "last": "Lane"
+            },
+            "location": {
+                "city": "Houston",
+                "state": "Texas"
+            },
+            "email": "Sean.bryant@example.com",
+            "image": {
+                "large": "https://randomuser.me/api/portraits/men/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+            }
+        },
+        {
+            "name": {
+                "first": "Londa",
+                "last": "Ploetz"
+            },
+            "location": {
+                "city": "San Antonio",
+                "state": "Texas"
+            },
+            "email": "Sean.bryant@example.com",
+            "image": {
+                "large": "https://randomuser.me/api/portraits/women/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+            }
+        }
+    ]
+}
