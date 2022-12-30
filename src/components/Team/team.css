@@ -1,0 +1,70 @@
+.card {
+    flex-direction: inherit !important;
+    width: 450px;
+    height: 600px;
+    text-align: left;
+    left: 194px;
+    top: 203px;
+    border-radius:0% !important; 
+}
+.g-4 {
+    --bs-gutter-x: -30rem !important;
+    padding-bottom: 422px;
+    padding-top: 30px;
+}
+.row>* { 
+    margin-top: 20px !important;
+    margin-left: -96px;
+}
+
+.card-title {
+    position: relative;
+    right: 70px;
+    width: 183px;
+    height: 23px;
+    padding-bottom: 59px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #242424;
+}
+
+
+.card-body {
+    display: table;
+}
+
+.member-location {
+    position: relative;
+    right: 70px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #767575;
+}
+
+.member-email {
+    position: relative;
+    right: 70px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 5px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #0047FF;
+}
+
+.card-img {
+    padding: 10px 85px 10px 10px;
+    width: 120px;
+    height: 220px;
+    left: 29px;
+    top: 42px;
+}
