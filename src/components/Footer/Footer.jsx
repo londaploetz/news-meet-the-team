@@ -6,19 +6,19 @@ const Footer = () => (
     <div className='footer-container'>
         <div className='footer-layer1'>
 
-            <div class='footer-links'>
+            <div className='footer-links'>
                 <p>News</p>
                 <p>Omaha Everyday </p>
             </div>
-            <div class='footer-links'>
+            <div className='footer-links'>
                 <p>Company</p>
                 <p>Terms & Conditions </p>
             </div>
-            <div class='footer-links'>
+            <div className='footer-links'>
                 <p>Contact Us</p>
                 <p>6 On Your Side </p>
             </div>
-            <div class='footer-links'>
+            <div className='footer-links'>
                 <p>First Alert Weather</p>
                 <p>WOWT</p>
             </div>
