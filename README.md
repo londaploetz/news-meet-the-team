@@ -20,6 +20,8 @@ HTML, CSS, JavaScript, Node.js
 
 Bootstrap
 ## Developer
+<img src="https://user-images.githubusercontent.com/117487226/213274560-ca5248f0-55d9-4dd4-8433-225e14f01d8f.jpg" width="250" height="300"> 
+
 **Londa Ploetz**
 - [@londaploetz](https://www.github.com/londaploetz)
 - Email: londaploetz@gmail.com
