@@ -1,10 +1,18 @@
+[![made-with-VSCode](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
 ![download](https://user-images.githubusercontent.com/117487226/212782762-89daa447-ecff-4e48-ac71-f655eccbd5e8.jpg)
 
 # Meet The Team
 
-Welcome to News 6 WOWT, meet the team.  
+Welcome to News 6 WOWT, meet the team. Created this application for API usgae, non production work this is a learning application.    
 
-# Installation
+## Table of Contents
+* [Installation](#installation)
+* [Tenchnologies](#technologies)
+* [Developer](#developer)
+
+
+## Installation
 npm i
 ## Technologies
 **API**
@@ -26,4 +34,5 @@ Bootstrap
 - [@londaploetz](https://www.github.com/londaploetz)
 - Email: londaploetz@gmail.com
 
-Special thanks to [@AnnaGrace](https://www.github.com/AnnaGrace)
+Special thanks to [@AnnaxGrace](https://www.github.com/AnnaGrace)
+
