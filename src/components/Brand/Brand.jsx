@@ -1,6 +1,5 @@
 import React from 'react';
 import './brand.css';
-import headder from '../../Assets/headder.webp';
 import newslogo from '../../Assets/newslogo.svg';
 import weatherlogo from '../../Assets/weather.svg';
 

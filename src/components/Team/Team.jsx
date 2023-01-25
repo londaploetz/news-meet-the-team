@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import './team.css';
-import teamdata1 from '../../utils/test[1722].json'
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
@@ -11,14 +10,12 @@ const Team = () => {
     useEffect(() => {
         API.APITeam()
             .then(response => {
-                console.log(response)
                 setteamdata(response.data.results)
             })
     })
     return (
 
         <Row xs={1} md={2} className="g-4">
-           {console.log(teamdata)}
             {teamdata !== [] &&
                 <>
                     {teamdata.map((teamMember, key) => (
