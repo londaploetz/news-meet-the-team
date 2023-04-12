@@ -12,14 +12,14 @@ function Navigation() {
       <Container fluid>
         <Nav >
 
-          <Navbar.Toggle   aria-controls="navbar-dark-example" />
+          <Navbar.Toggle aria-controls="navbar-dark-example" />
           <Navbar.Collapse id="navbar-dark-example">
 
             <NavDropdown
               id="nav-dropdown-dark-example"
               title="="
               menuVariant="dark"
-             className="party"
+              className="party"
             >
               <NavDropdown.Item href="#action/3.1">Home</NavDropdown.Item>
 
@@ -31,10 +31,7 @@ function Navigation() {
                   title="News"
                   menuVariant="dark"
                 >
-                  <NavDropdown.Item href="#action/3.1">Hello</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.1">Can</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.1">You</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.1">See me</NavDropdown.Item>
+
                 </NavDropdown>
 
               </NavDropdown.Item>

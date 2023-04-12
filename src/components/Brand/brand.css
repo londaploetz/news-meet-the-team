@@ -1,6 +1,6 @@
 .headder {
     background-image: url(/src/Assets/headder.webp);
-    background-repeat: no-repeat;
+    background-repeat:repeat;
 
 
 }
@@ -18,7 +18,7 @@
 }
 
 .weather-logo {
-    display: absolute;
+    position: absolute;
     width: 62px;
     height: 55px;
     left: 1579px;

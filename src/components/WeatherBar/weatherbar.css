@@ -1,10 +1,8 @@
 .weather-bar {
-    position: absolute;
+    position: relative;
     width: 2000px;
     height: 36px;
- 
-    top: 128px;
-    
+    top: 0px;
     background: rgba(72, 122, 197, 0.842);
 }
 
@@ -14,23 +12,20 @@
     height: 68px;
     left: 25px;
     top: 10px;
-    
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
     line-height: 16px;
-    
     color: #FFFFFF;
-    
     text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
 }
 
 .anti-weather {
-position: inherit;
+    position: inherit;
     border: 0ch;
-    left: 1722px;
-    top: 5px;
-color: #FFFFFF;
-background-color: rgba(23, 88, 185, 0);
+    left: 880px;
+    top: 6px;
+    color: #FFFFFF;
+    background-color: rgba(23, 88, 185, 0);
 }
