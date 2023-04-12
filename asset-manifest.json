@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/news-meet-the-team/static/css/main.0c01fe2f.css",
+    "main.js": "/news-meet-the-team/static/js/main.9dcc98da.js",
+    "static/js/787.c1b43b09.chunk.js": "/news-meet-the-team/static/js/787.c1b43b09.chunk.js",
+    "static/media/newslogo.svg": "/news-meet-the-team/static/media/newslogo.a1440a96a0f1a127e4dd35f8dd2f9018.svg",
+    "static/media/newslogo2.svg": "/news-meet-the-team/static/media/newslogo2.a1440a96a0f1a127e4dd35f8dd2f9018.svg",
+    "static/media/headder.webp": "/news-meet-the-team/static/media/headder.82e731e3bb02eca819e9.webp",
+    "static/media/weather.svg": "/news-meet-the-team/static/media/weather.8e2cb56b95123ff6c975038c9f7bdaad.svg",
+    "index.html": "/news-meet-the-team/index.html",
+    "main.0c01fe2f.css.map": "/news-meet-the-team/static/css/main.0c01fe2f.css.map",
+    "main.9dcc98da.js.map": "/news-meet-the-team/static/js/main.9dcc98da.js.map",
+    "787.c1b43b09.chunk.js.map": "/news-meet-the-team/static/js/787.c1b43b09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c01fe2f.css",
+    "static/js/main.9dcc98da.js"
+  ]
+}
