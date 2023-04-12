@@ -3,23 +3,36 @@
     width: 450px;
     height: 600px;
     text-align: left;
-    left: 194px;
-    top: 203px;
-    border-radius:0% !important; 
+    display: flex;
+    left: 10px;
+    top: 100px;
+    border-radius:0% !important;     
 }
 .g-4 {
     --bs-gutter-x: -30rem !important;
     padding-bottom: 422px;
     padding-top: 30px;
-}
+
+
+} 
 .row>* { 
     margin-top: 20px !important;
-    margin-left: -96px;
+
+
 }
+
+
+
+
+
+.team-cards {
+    position: relative;
+    display: flex;
+}
+
 
 .card-title {
     position: relative;
-    right: 70px;
     width: 183px;
     height: 23px;
     padding-bottom: 59px;
@@ -32,13 +45,9 @@
 }
 
 
-.card-body {
-    display: table;
-}
 
 .member-location {
     position: relative;
-    right: 70px;
     text-align: left;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: normal;
@@ -50,7 +59,6 @@
 
 .member-email {
     position: relative;
-    right: 70px;
     text-align: left;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 5px;
@@ -62,9 +70,21 @@
 }
 
 .card-img {
-    padding: 10px 85px 10px 10px;
-    width: 120px;
-    height: 220px;
+
+    padding: 10px 25px 10px 10px;
+    width: 100px;
+    height: 210px;
     left: 29px;
     top: 42px;
+}
+
+
+@media screen and (max-width: 750px) {
+    .g-4 {
+        --bs-gutter-x: 0rem !important;
+        padding-bottom: 422px;
+        padding-top: 30px;
+    
+    
+    } 
 }

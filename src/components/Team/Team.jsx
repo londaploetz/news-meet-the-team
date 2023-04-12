@@ -14,7 +14,7 @@ const Team = () => {
             })
     })
     return (
-
+<div className='team-cards'>
         <Row xs={1} md={2} className="g-4">
             {teamdata !== [] &&
                 <>
@@ -33,10 +33,12 @@ const Team = () => {
                                 </Card.Body>
                             </Card>
                         </Col>
+                       
                     ))}
                 </>
             }
-        </Row>
-    );
+        </Row> 
+        </div>
+    )
 }
 export default Team;
